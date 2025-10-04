@@ -3,6 +3,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=josueninadiaz&color=blueviolet)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Josue+Nina+👋;Fullstack+Dev+%7C+Cybersecurity+%7C+Reverse+Engineer;Rust+%26+TypeScript+Enthusiast+💻;Building+Cool+Things+Since+2018+🚀" alt="Typing SVG Banner" />
+</p>
+
 {
   • 💡 My name is: Josue Nina,
   • 🎭 Pronouns: He, Him,
