@@ -33,23 +33,7 @@
 ---
 
  🛠️ Technologies & Tools
- 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JS"/><br>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TS"/><br>TypeScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="45" height="45" alt="Rust"/><br>Rust
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/><br>React
-    </td>
-  </tr>
-</table>
+
 
 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -79,10 +63,6 @@ Backend & Tools
 ---
 
 <div align="center">
-  
-  <p align="center">
-  <img src="https://i.imgur.com/ZVJr3bM.gif" alt="Matrix rain" width="100%" />
-</p>
 
 💭 Random Dev Quote
 
