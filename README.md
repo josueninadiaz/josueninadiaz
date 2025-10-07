@@ -23,7 +23,7 @@ const josue = {
     age: 22,
     location: "Santo Domingo, DO 🇩🇴",
     currentlyLearning: ["Vue.js", "Cybersecurity", "Reverse Engineering"],
-    passions: ["Cats 🐱", "Coffee ☕", "Anime 🌸"],
+    passions: ["Cats 🐱", "Gaming ☕", "Anime 🌸"],
     favoriteLanguages: ["Python 🐍", "TypeScript 💙"],
     
     areas: [
