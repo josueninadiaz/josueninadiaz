@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 👋 Hi there, I'm Josue Nina
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A991F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%F0%9F%8C%B1;Cybersecurity+Enthusiast+%F0%9F%94%92;Reverse+Engineer+%F0%9F%90%B8" alt="Typing SVG" />
